@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ Hello every body! I am Gemini! 
+=======
+I am Gemini
+>>>>>>> parent of 098c059... Revert "Bai2.txt"
