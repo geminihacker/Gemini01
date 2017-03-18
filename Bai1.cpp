@@ -1,12 +1,16 @@
+
 #include <iostream>
-#include <stdio.h>
-#include <string>
+#include <iomanip>
+#define MAX 100
 
 using namespace std;
 
+void nhap(int a[][MAX], int n, int m)
+{
+	
+}
 int main()
 {
-	cout<<"Hello wordl"<<endl;
-	cout<<"Hello I am Gemini"<<endl;
+
 	return 0;
 }
