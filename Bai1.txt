@@ -1,26 +1,2 @@
-﻿"cd .." :  lui la duong dan cu
+abc
 
-"Git init" : khoi tao init
-
-"Git add" : them 1 file
-
-"Git status" : Kiem tra tinh trang file
-
-"Git commit -m 
-
-"Git log" : kiem trang ngay commit
-
-"vi " : ten file.dinhdang
-
-"Git fetch" : push len github
-
-"Git brank" : chi ra nhanh
-
-"Git diff" : dat file
-
-"git checkout" : lay lai file cu khi da mat
-"Echo > " tao file
-
-^M 
-Thử enter cho chú xem nhé
-"git add*" them tat ca cac file vao git
